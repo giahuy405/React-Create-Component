@@ -1,0 +1,23 @@
+header{
+    background-color: black;
+    padding: 12px 0;
+}
+.brand{
+    font-size: 28px;
+    font-weight: 700;
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header a{
+    color: white;
+}
+nav a{
+    color: gray;
+    margin-left: 10px;
+}
+nav a.active{
+    color: white;
+}

@@ -1,0 +1,11 @@
+.row{
+    margin-top: 30px;
+   
+}
+.col-3{
+    padding: 10px;
+}
+.card img{
+    height: 250px;
+    background-color: cadetblue;
+}
